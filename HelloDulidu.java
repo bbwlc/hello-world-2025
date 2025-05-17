@@ -6,7 +6,7 @@ public class HelloDulidu {
     private String coolFeature5 = "my feature 4";
     private String coolFeature6 = "my feature 6";
     private String coolFeature7 = "my feature 7";
-  
+    private String coolFeature8 = "my feature 8";
 
     public HelloDulidu() {
         coolFeature = "cool";
